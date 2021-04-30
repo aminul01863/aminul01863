@@ -2,9 +2,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 📓 I’m currently learning from Programming-Hero !!
 - 🌱  I’m currently working on Frontend Developer
 - 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
@@ -13,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him.
 - ⚡  I love editing and Photography 📷 
+- 
 
-<a href="https:aminulislamrana804@gmail.com">Email</a> || <a href="https://www.linkedin.com/in/aminul-info-360/">Linkedin</a>
+<a href="https://www.facebook.com/profile.php?id=100009531166791">Facbook</a> || <a href="https://www.linkedin.com/in/aminul-info-360/">Linkedin</a>
