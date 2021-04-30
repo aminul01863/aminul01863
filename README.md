@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him.
 - ⚡  I love editing and Photography 📷 
 
-<a href="https:aminulislamrana804@gmail.com">Email</a>
+<a href="https:aminulislamrana804@gmail.com">Email</a> || <a href="https://www.linkedin.com/in/aminul-info-360/">Linkedin</a>
