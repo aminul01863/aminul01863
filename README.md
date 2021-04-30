@@ -2,7 +2,7 @@
 
 
 
-- 📓 I’m currently learning from Programming-Hero !!
+- 📓 I’m currently learning from Programming-Hero <a href="https://www.programming-hero.com/">Programming-Hero</a>!!
 - 🌱  I’m currently working on Frontend Developer
 - 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
 - 🤔 I’m looking for help with ...
